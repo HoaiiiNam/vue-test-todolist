@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "id": "feec",
+      "title": "Build a to-do list app",
+      "status": 0,
+      "created_at": "22:03:26",
+      "date": "29/05/2024"
+    },
+    {
+      "id": "7507",
+      "title": "Learn Vue.js",
+      "status": 2,
+      "created_at": "22:03:38",
+      "date": "29/05/2024"
+    }
+  ]
+}
